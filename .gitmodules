@@ -1,3 +1,6 @@
 [submodule "libs"]
 	path = libs
 	url = https://github.com/xAIO-Slotted/xCore
+[submodule "slotted_sdk"]
+	path = sdk
+	url = https://github.com/xAIO-Slotted/slotted_sdk

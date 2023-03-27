@@ -39,9 +39,3 @@ luac.out
 *.x86_64
 *.hex
 
-*.iml
-xUtilities.iml
-*.xml
-.idea/workspace.xml
-.idea/vcs.xml
-.idea/misc.xml
